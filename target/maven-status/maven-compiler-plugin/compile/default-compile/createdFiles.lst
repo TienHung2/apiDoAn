@@ -1,0 +1,4 @@
+com\hungle\doan\config\MyWebAppInitializer.class
+com\hungle\doan\config\WebConfig.class
+com\hungle\doan\config\AppConfig.class
+com\hungle\doan\model\Blog.class
